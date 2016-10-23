@@ -1,0 +1,24 @@
+{
+    "name": "mods/http",
+    "description": "The Mods Http package.",
+    "keywords": ["framework", "mods"],
+    "license": "MIT",
+    "homepage": "https://thehackerleague.com",
+    "support": {
+        "issues": "https://github.com/thehackerleague/framework/issues",
+        "source": "https://github.com/thehackerleague/framework"
+    },
+    "authors": [
+        {
+            "name": "Sunel Tr",
+            "email": "sunelbe@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Mods\\Http\\": ""
+        }
+    }
+}
